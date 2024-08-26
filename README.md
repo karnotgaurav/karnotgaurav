@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Network Pentesting<br>🌱 I’m currently learning  Active Directory<br>💬 Ask me about Cyber Security<br>⚡ Fun fact Football>>>:)
 
-![](https://media1.tenor.com/m/iEAp41_7kC8AAAAd/illus-cute.gif)
+![] (https://media1.tenor.com/m/iEAp41_7kC8AAAAd/illus-cute.gif)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/g_a_u_r_a_V_017) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-singh-karnot) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@karnotgaurav) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hacker) 
